@@ -29,3 +29,11 @@ button{
     border-radius: 2px;
     margin-bottom: 4px;
 }
+
+#info{
+    font-size: small;
+    position: fixed;
+    top: 10;
+    left: 10;
+    
+}
